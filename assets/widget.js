@@ -1,4 +1,4 @@
-const sandBox = "http://localhost:4200";
+const sandBox = "https://xmalmorthen.github.io/xmalSign";
 const widgetId = 'xmalSignWidget';
 
 function prepareFrame(size) {
