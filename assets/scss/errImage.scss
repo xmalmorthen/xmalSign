@@ -1,0 +1,10 @@
+.imgErr{
+    height: 50vh;
+    --animate-duration: 5s;
+}
+
+@media screen and (max-width: 768px){
+    .imgErr{
+        height: 25vh;
+    }
+}
